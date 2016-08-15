@@ -1,3 +1,5 @@
+<img src="https://github.com/vichen/mobilemailmockup/blob/master/simulatorscreen.png" width="250">
+
 To run:
 
 1. npm install
